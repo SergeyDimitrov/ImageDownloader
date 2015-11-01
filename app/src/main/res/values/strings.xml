@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NewThread</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="image_url">http://wallpaperscraft.ru/image/cached_30907_5286x3552.jpg</string>
+
+    <string name="status_idle">Status: Idle</string>
+    <string name="status_downloading">Status: Downloading</string>
+    <string name="status_downloaded">Status: Downloaded</string>
+
+    <string name="download">Download</string>
+    <string name="downloading">Downloading</string>
+    <string name="open">Open</string>
+
+    <string name="connection_error">Connection error</string>
+    <string name="server_error">Server error</string>
+
+
+</resources>
