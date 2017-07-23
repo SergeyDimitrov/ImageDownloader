@@ -1,9 +1,11 @@
 <resources>
-    <string name="app_name">NewThread</string>
+    <string name="app_name">ImageDownloader</string>
 
     <string name="action_settings">Settings</string>
 
-    <string name="image_url">http://wallpaperscraft.ru/image/cached_30907_5286x3552.jpg</string>
+    <string name="image_url">http://kirunahuskytours.com/images/kiruna-aurora-borealis-tours-1_eyectacher.jpg</string>
+
+    <string name="title">Image downloader</string>
 
     <string name="status_idle">Status: Idle</string>
     <string name="status_downloading">Status: Downloading</string>
@@ -15,6 +17,4 @@
 
     <string name="connection_error">Connection error</string>
     <string name="server_error">Server error</string>
-
-
 </resources>
